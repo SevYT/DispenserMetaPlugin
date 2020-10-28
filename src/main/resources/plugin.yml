@@ -1,0 +1,7 @@
+name: ImpurityStackedItemFix
+version: ${project.version}
+main: me.impurity.impuritystackeditemfix.ImpurityStackedItemFix
+authors: [SevJ6]
+description: nigger plugin
+commands:
+  heal:
